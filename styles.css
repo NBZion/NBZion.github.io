@@ -42,7 +42,7 @@ main {
 }
 
 section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
