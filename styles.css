@@ -48,3 +48,11 @@ section {
     margin-left: 30px;
     margin-right: 30px;
 }
+
+.CapybaraPicture {
+    transition: transform 1s ease;
+}
+
+.CapybaraPicture:hover {
+    transform: rotate(360deg);
+}
