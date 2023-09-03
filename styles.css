@@ -45,4 +45,6 @@ section {
     display: block;
     margin: 0 auto;
     text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
 }
