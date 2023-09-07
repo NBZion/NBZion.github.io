@@ -2,6 +2,9 @@
     font-family: 'Inter', sans-serif;
 }
 
+a {
+    color: #e8e6e3;
+}
 body {
     background-color: #1a1a1a;
     color: #e8e6e3;
@@ -55,4 +58,8 @@ section {
 
 .CapybaraPicture:hover {
     transform: rotate(360deg);
+}
+
+.Interests ul {
+    padding: 0;
 }
