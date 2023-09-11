@@ -1,2 +1,2 @@
-# NeocitiesWeb
-Website for neocities
+# nbzion.github.io
+Website for my portfolio
