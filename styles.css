@@ -59,7 +59,3 @@ section {
 .CapybaraPicture:hover {
     transform: rotate(360deg);
 }
-
-.Interests ul {
-    padding: 0;
-}
