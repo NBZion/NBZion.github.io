@@ -34,6 +34,7 @@ header {
     display: flex;
     list-style-type: none;
     justify-content: flex-end;
+    
 }
 
 main {
