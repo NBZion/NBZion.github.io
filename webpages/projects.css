@@ -10,6 +10,16 @@ body {
     background-color: #1a1a1a;
 }
 
+/* Header */ 
+header {
+    background-color: #221f1f;
+
+    display: flex;
+    align-items: center;
+    height: 30px;
+    border-radius: 15px;
+}
+
 .titleHeader {
     flex: 1;
     margin-left: 15px;
