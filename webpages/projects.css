@@ -1,0 +1,27 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    color: #e8e6e3;
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+.titleHeader {
+    flex: 1;
+    margin-left: 15px;
+}
+
+.navHeader {
+    flex: 2;
+    margin-right: 15px;
+}
+
+.navHeader ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;    
+}
