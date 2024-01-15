@@ -60,6 +60,10 @@ section {
     transform: rotate(360deg);
 }
 
+
+
+/* XP Bar */
+
 .XPBar {
     display: flex;
     margin-left: auto;
